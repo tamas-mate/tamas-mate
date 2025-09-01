@@ -18,7 +18,7 @@ I enjoy learning by building real projects — from small portfolio showcases to
 - **Languages:** JavaScript, TypeScript  
 - **Frameworks/Libraries:** React, React Native, Tailwind CSS, Redux
 - **Tools:** Git, Vite, Trello, Jira
-- **3D & UI:** Three.js (React Three Fiber), Konva  
+- **3D & UI:** Three.js (React Three Fiber)
 
 ---
 
